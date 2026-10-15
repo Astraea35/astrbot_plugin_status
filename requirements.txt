@@ -1,0 +1,4 @@
+psutil>=5.9.8
+aiofiles>=23.0.0
+playwright
+jinja2
